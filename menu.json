@@ -1,0 +1,145 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Dum Biryani",
+      "price": 180.0,
+      "veg": false,
+      "reviews": [4]
+    },
+    {
+      "id": 2,
+      "name": "Chicken Biryani",
+      "price": 200.0,
+      "veg": false,
+      "reviews": []
+    },
+    {
+      "id": 3,
+      "name": "Paneer Biryani",
+      "price": 180.0,
+      "veg": true,
+      "reviews": []
+    },
+    {
+      "id": 4,
+      "name": "Hundi Biryani",
+      "price": 220.0,
+      "veg": false,
+      "reviews": []
+    },
+    {
+      "id": 5,
+      "name": "Butter Chicken",
+      "price": 250.0,
+      "veg": false,
+      "reviews": []
+    },
+    {
+      "id": 6,
+      "name": "Chicken butter masala",
+      "price": 320.0,
+      "veg": false,
+      "reviews": []
+    },
+    {
+      "id": 7,
+      "name": "Paneer butter masala",
+      "price": 180.0,
+      "veg": true,
+      "reviews": []
+    },
+    {
+      "id": 8,
+      "name": "Veg Pulav",
+      "price": 120.0,
+      "veg": true,
+      "reviews": []
+    },
+    { "id": 9, "name": "Ice Cream", "price": 80.0, "veg": true, "reviews": [] },
+    { "id": 10, "name": "Lassi", "price": 50.0, "veg": true, "reviews": [] },
+    {
+      "id": 11,
+      "name": "Butter Nun",
+      "price": 100.0,
+      "veg": true,
+      "reviews": []
+    },
+    {
+      "id": 12,
+      "name": "Chicken-65",
+      "price": 155.0,
+      "veg": false,
+      "reviews": []
+    },
+    {
+      "id": 13,
+      "name": "Veg-Thali",
+      "price": 95.0,
+      "veg": true,
+      "reviews": []
+    },
+    {
+      "id": 14,
+      "name": "Mutton-Kosa",
+      "price": 400.0,
+      "veg": false,
+      "reviews": []
+    },
+    {
+      "id": 15,
+      "name": "Shahi Paneer",
+      "price": 300.0,
+      "veg": true,
+      "reviews": []
+    },
+    {
+      "id": 16,
+      "name": "Chingri malai curry",
+      "price": 185.0,
+      "veg": false,
+      "reviews": []
+    },
+    {
+      "id": 17,
+      "name": "Cold Coffee",
+      "price": 40,
+      "veg": true,
+      "reviews": []
+    },
+    {
+      "id": 18,
+      "name": "Masala Pasta",
+      "price": 80,
+      "veg": true,
+      "reviews": []
+    },
+    {
+      "id": 19,
+      "name": "Simple Maggie",
+      "price": 30,
+      "veg": false,
+      "reviews": []
+    },
+    { "id": 20, "name": "Lamon tea", "price": 25, "veg": true, "reviews": [] },
+    {
+      "id": 21,
+      "name": "Chicken Kabbab",
+      "price": 140,
+      "veg": false,
+      "reviews": []
+    },
+    { "id": 22, "name": "Water", "price": 20, "veg": true, "reviews": [] },
+    { "id": 23, "name": "Coca-Cola", "price": 20, "veg": true, "reviews": [] },
+    { "id": 24, "name": "lassi", "price": 10, "veg": true, "reviews": [] },
+    { "id": 25, "name": "sandwich", "price": 60, "veg": true, "reviews": [] },
+    {
+      "id": 26,
+      "name": "Fish Curry",
+      "price": 150,
+      "veg": false,
+      "reviews": []
+    },
+    { "id": 27, "name": "Paw Vaji", "price": 60, "veg": true, "reviews": [] }
+  ]
+}
